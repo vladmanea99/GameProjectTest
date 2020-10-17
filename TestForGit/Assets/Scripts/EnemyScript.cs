@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class EnemyScript : MonoBehaviour
 {
+
+    private int HP;
+
     // Start is called before the first frame update
     void Start()
     {
